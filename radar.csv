@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description  
 BetterCodeHub,adopt,tools,FALSE," .. "
-TravisCI,adopt,tools,FALSE," .. "
-CircleCI,trial,tools,TRUE," .. "
+TravisCI,hold,tools,FALSE,"At this moment we are migrating all builds to CircleCI because of better support of our current build flow"
+CircleCI,adopt,tools,TRUE,"At this moment we are migrating all builds to CircleCI because of better support of our current build flow"
 Dependabot,assess,tools,TRUE," .. "
 Atlassion Bamboo,hold,tools,FALSE,"We decided to favor Circle CI over Bamboo as its a SaaS service."
 Lightweight Architecture Decision Records,adopt,techniques,TRUE," .. "
