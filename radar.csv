@@ -30,3 +30,4 @@ Typescript,assess,languages & frameworks, TRUE, "Adds type-safety to javascript.
 Serverless.com,adopt,languages & frameworks, FALSE, "Serverless.com or Serverless Framework is a platform agnostic product to manage serverless solutions and services from AWS, GCP and others"
 New Relic,hold,tools, FALSE, "Tool focussing on Application Performance Management with limited logging and metrics functionality"
 Datadog,adopt,tools, TRUE, "Datadog is a fully integrated monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform."
+Trunk based development,adopt,techniques, FALSE, "A source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ *, resist any pressure to create other long-lived development branches by employing documented techniques. They therefore avoid merge hell, do not break the build, and live happily ever after."
