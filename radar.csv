@@ -18,4 +18,4 @@ Spring Boot 1,hold,languages & frameworks,FALSE,"We feel that we should migrate 
 React,adopt,languages & frameworks,TRUE,"React has been selected as the preferred front-end framework and has been proven and tested."
 ES.next,adopt,languages & frameworks,TRUE,"We use the latest ECMAScript features, using Babel for transpilation and polyfills where necessary."
 Event Driven Architecture,assess,techniques,TRUE,"We want to respond to (data) changes in a timely manner, so they are reflected in all relevant systems as quickly as possible. In essense this means we prefer push over pull mechanisms, where applicable."
-Swagger,assess,tools,TRUE,"Swagger offers some nice features for documenting APIs and optionally even generating parts of the API code (like DTOs)."
+OpenAPI,adopt,tools,TRUE,"OpenAPI based on Swagger offers good features for documenting APIs and optionally even generating parts of the API code (like DTOs). It helps non technical people to understand what Microservices can provide and, to some extend, do."
