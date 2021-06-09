@@ -34,3 +34,4 @@ Trunk based development,adopt,techniques, FALSE, "A source-control branching mod
 Dagger,trial,languages & frameworks, TRUE, "A simpler dependency injection framework, initially being trailed by Sunny for lambda's. This framework does 1 thing and does it well. "
 Shiftleft,trial,tools, TRUE, "Proof of concept started to find new SAST tool beginning with Shiftleft"
 AWS Cognito,adopt,platforms, TRUE, "OAuth authentication and authorization solution from AWS"
+Flyway,adopt,tools, FALSE, "Version control for your database with robust schema evolution across all your environments using plain SQL"
